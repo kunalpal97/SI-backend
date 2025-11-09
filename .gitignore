@@ -1,0 +1,21 @@
+# Build artifacts
+/build/
+/dist/
+*.o
+*.pyc
+
+# Node.js
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Sensitive information
+.env
